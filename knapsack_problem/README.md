@@ -2,7 +2,7 @@ COMP319 Algorithms, Spring 2019
 ---
 Programming Assignment 4
 ---
-#### Instructor: Gil-Jin Jang (<gjang@knu.ac.kr>), School of Electronics Engineering
+#### School of Electronics Engineering
 ---
 ### 1. 0-1 knapsack problem
 
