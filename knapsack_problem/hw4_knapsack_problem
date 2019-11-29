@@ -59,9 +59,9 @@ KNAPSACK* solve_knapsack_problem(double arr[], int arr_len){
 			else{
 				v[i][w] = v[i-1][w];
 			}
-		printf("%.lf ",v[i][w]);
+	//	printf("%.lf ",v[i][w]);
 		}
-		printf("\n");
+	//	printf("\n");
 	}
 	double result = v[row][column];
 	double res = result;
