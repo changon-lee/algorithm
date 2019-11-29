@@ -258,7 +258,7 @@ int main(){
 
 	FILE *fp = fopen(string,"r");
 	if ( !fp ) {
-		fprintf(stderr, "cannot open file %s\n","p1.txt");
+		fprintf(stderr, "cannot open file %s\n",string);
 		exit(0);
 	}
 	int SIZE = 10;
@@ -348,7 +348,7 @@ int main(){
 	
 	fp = fopen(string,"r");
         if ( !fp ) {
-		fprintf(stderr, "cannot open file %s\n","p4.txt");
+		fprintf(stderr, "cannot open file %s\n",string);
 	        exit(0);
 	}
         count=0;
