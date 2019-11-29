@@ -1,7 +1,7 @@
  * Binary search tree using doubly-linked lists
  * COMP319 Algorithms, Fall 2019
  * School of Electronics Engineering, Kyungpook National University
- * Instructor: Gil-Jin Jang
+
 
 ### DATA STRUCTURE:
 ```
